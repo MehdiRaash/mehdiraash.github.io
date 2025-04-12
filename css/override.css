@@ -22,6 +22,10 @@ body{
   color: inherit !important;
 }
 
+.site-header{
+  border-bottom: none !important;
+}
+
 .post_navi .nav_prev {
   text-align: left;
 }
